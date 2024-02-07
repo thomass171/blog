@@ -13,6 +13,6 @@ was also created by Flightgear.
 
 ![]({{ site.baseurl }}/images/c172p-on-desktop.png)
 
-Launch the scene: https://yard.de/tcp-flightgear/webgl.html?scene=HangarScene&vr-controlpanel-posrot=0,0,0,200,90,0&offsetVR=0.0,%200.0,%200.0&devmode=false&teamSize=1&vrMode=AR&enableHud=false&enableNearView=false
+[Launch it](https://yard.de/tcp-flightgear/webgl.html?scene=HangarScene&vr-controlpanel-posrot=0,0,0,200,90,0&offsetVR=0.0,%200.0,%200.0&devmode=false&teamSize=1&vrMode=AR&enableHud=false&enableNearView=false)
 
-This example was taken from https://thomass171.github.io/tcp-flightgear/tcp-flightgear.html.
+This example was taken from [tcp-flightgear](https://thomass171.github.io/tcp-flightgear/tcp-flightgear.html).

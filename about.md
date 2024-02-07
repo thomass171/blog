@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+VR has been fascinating from its first days with using Google card board.
+With the Meta Quest 3 a new step of improvement of VR headsets was reached.
 
-### More Information
+Combined with the option to run 3D graphics including VR in a browser
+it was never easier to use VR.
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+This blob is about some VR show cases.

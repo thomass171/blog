@@ -6,10 +6,20 @@ After the latest conversion of a larger subset of Flightgear scenery, we can vis
 
 We start from Greenwich.
 
-![]({{ site.baseurl }}/images/xx.png)
+![]({{ site.baseurl }}/images/Greenwich.png)
 
 
-[Launch it](https://yard.de/tcp-flightgear/webgl.html?scene=AdvancedSceneryScene&vr-controlpanel-posrot=0,0,0,200,90,0&offsetVR=0.0,%200.0,%200.0&devmode=false&enableHud=false&enableNearView=false&initialLocation=51.47752,0,500&initialHeading=270)
+[Launch it regular ](https://yard.de/tcp-flightgear/webgl.html?scene=AdvancedSceneryScene&initialLocation=51.47752,0,500&initialHeading=270)
+and
+[or in VR](https://yard.de/tcp-flightgear/webgl.html?scene=AdvancedSceneryScene&initialLocation=51.47752,0,500&initialHeading=270&vrMode=VR&vr-controlpanel-posrot=0,0,0,200,90,0&offsetVR=0.0,%200.0,%200.0)
+.
 
+And we also have Edinburgh available
+
+
+[Launch it regular ](https://yard.de/tcp-flightgear/webgl.html?scene=AdvancedSceneryScene&initialLocation=55.99,-3.2,1500&initialHeading=270)
+and
+[or in VR](https://yard.de/tcp-flightgear/webgl.html?scene=AdvancedSceneryScene&initialLocation=55.99,-3.2,1500&initialHeading=270&vrMode=VR&vr-controlpanel-posrot=0,0,0,200,90,0&offsetVR=0.0,%200.0,%200.0)
+.
 
 

@@ -16,6 +16,7 @@ and
 
 And we also have Edinburgh available
 
+![]({{ site.baseurl }}/images/Edinburgh.png)
 
 [Launch it regular ](https://yard.de/tcp-flightgear/webgl.html?scene=AdvancedSceneryScene&initialLocation=55.99,-3.2,1500&initialHeading=270)
 and

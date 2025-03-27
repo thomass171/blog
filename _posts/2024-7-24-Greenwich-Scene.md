@@ -3,6 +3,7 @@ layout: post
 title: Flightgear scenery in London
 ---
 After the latest conversion of a larger subset of Flightgear scenery, we can visit the area of London.
+Use w/a/s/d and cursor keys for moving.
 
 We start from Greenwich.
 

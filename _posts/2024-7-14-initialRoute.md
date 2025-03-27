@@ -16,6 +16,6 @@ Initially the aircraft 'bluebird' is located at EDKB. The flight to EDDK only ta
 
 
 
-[Launch it](https://yard.de/tcp-flightgear/webgl.html?scene=TravelSceneBluebird&vr-controlpanel-posrot=0,0,0,200,90,0&offsetVR=0.0,%200.0,%200.0&devmode=false&teamSize=1&enableHud=false&enableNearView=false&initialVehicle=bluebird&initialRoute=wp:50.768,7.1672000-%3Etakeoff:50.7692,7.1617000-%3Ewp:50.7704,7.1557-%3Ewp:50.8176,7.0999-%3Ewp:50.8519,7.0921-%3Etouchdown:50.8625,7.1317000-%3Ewp:50.8662999,7.1443999)
+[Launch it](https://ubuntu-server.udehlavj1efjeuqv.myfritz.net/publicweb/tcp-flightgear/webgl.html?scene=TravelSceneBluebird&vr-controlpanel-posrot=0,0,0,200,90,0&offsetVR=0.0,%200.0,%200.0&devmode=false&teamSize=1&enableHud=false&enableNearView=false&initialVehicle=bluebird&initialRoute=wp:50.768,7.1672000-%3Etakeoff:50.7692,7.1617000-%3Ewp:50.7704,7.1557-%3Ewp:50.8176,7.0999-%3Ewp:50.8519,7.0921-%3Etouchdown:50.8625,7.1317000-%3Ewp:50.8662999,7.1443999)
 
 This example was taken from [tcp-flightgear](https://thomass171.github.io/tcp-flightgear/tcp-flightgear.html).
